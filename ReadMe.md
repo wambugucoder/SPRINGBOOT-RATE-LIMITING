@@ -1,5 +1,5 @@
 # SPRINGBOOT-RATE-LIMITING
-A Springboot Application that limits the number of requests sent using the _**token-bucket-algorithm**_
+A Springboot Application that limits the number of requests sent using the _**Token-Bucket-Algorithm**_
 
 
 ## TOKEN-BUCKET-ALGORITHM
